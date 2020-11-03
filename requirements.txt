@@ -1,0 +1,6 @@
+lxml==4.6.1
+multitasking==0.0.9
+numpy==1.19.4
+pandas==1.1.4
+yfinance==0.1.55
+requests==2.22.0

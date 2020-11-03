@@ -3,3 +3,7 @@ test.py
 swagger.yaml
 token.txt
 .idea/
+db_model.mwb*
+.vscode
+.pytest_cache
+__pycache__

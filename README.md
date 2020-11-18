@@ -18,5 +18,6 @@ Parameters must be set:
 
 2. Run script in docker: \
 *docker run lamoadm/invest:latest token=$TOKEN currency=EUR age=5* \
+\
 Run script in command line: \
 *python3 main.py token=$TOKEN currency=EUR age=1*

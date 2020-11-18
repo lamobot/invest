@@ -16,7 +16,6 @@ def check_token(token: str) -> str:
     """Return token string"""
     if token.split('=')[0] != 'token':
         sys.exit("You must define a token")
-    #if type(token.split('=')[1]) is not str:
     if not isinstance(token.split('=')[1], str):
         sys.exit("The token is incorrect")
     if "t." not in token.split('=')[1]:

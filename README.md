@@ -1,6 +1,6 @@
 # invest
 
-This script downloads data from yahoo finance and Tinkoff Investment API and generate list of tickers which we can buy on MOEX or SPBEX depending on some conditions:
+This script downloads data from yahoo finance and Tinkoff Investment API and generates the list of tickers which we can buy on MOEX or SPBEX depending on some conditions:
 
 * share currency
 * age(how many years companies pay dividends)

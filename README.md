@@ -4,6 +4,7 @@ This script downloads data from yahoo finance and Tinkoff Investment API and gen
 
 * share currency
 * age(how many years companies pay dividends)
+* company has not had a loss for several years
 
 ## Use the script
 
